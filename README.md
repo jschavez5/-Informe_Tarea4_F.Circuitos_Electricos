@@ -14,9 +14,8 @@ Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos E
 ![image](https://user-images.githubusercontent.com/116780907/209449745-64586e9f-b7a7-4619-9dbc-1ea4c24122ab.png)
 ![image](https://user-images.githubusercontent.com/116780907/209449753-a2aa71bb-a8ae-4b5b-a016-da59a6ac6a0c.png)
 ![image](https://user-images.githubusercontent.com/116780907/209449757-d0a3b085-6b20-4cbb-8306-1aefd7bc4eed.png)
-![image](https://user-images.githubusercontent.com/116780907/209449777-e55bd578-c146-496b-b010-367e45036c43.png)
-![image](https://user-images.githubusercontent.com/116780907/209449825-016c44e0-492f-40ac-9665-5a9698a50e72.png)
-![image](https://user-images.githubusercontent.com/116780907/209450103-6ba433d4-9246-46a3-9665-e7c8b1f9aa63.png)
+![image](https://user-images.githubusercontent.com/116780907/209451898-d089dd8f-c9b4-4452-bf0b-9f065421a7ce.png)
+![image](https://user-images.githubusercontent.com/116780907/209451902-1651e7b3-a4d2-4bee-85c7-b059a2ff6adc.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450158-8a281504-3642-4b9a-99f3-cc62eb8232c6.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450200-4da0c1a5-4142-40de-91c5-2df37837cb5f.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450311-7e9a6b49-728f-4996-86df-5188069c103c.png)
@@ -33,7 +32,7 @@ Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos E
 ![image](https://user-images.githubusercontent.com/116780907/209450765-848eaf13-045a-4ff4-9270-836fdb2771fd.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450774-0bc5a6be-96d2-4ee5-899d-71da8cd4f5af.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450782-31346842-ec21-4068-b4e4-cba99a580444.png)
-![image](https://user-images.githubusercontent.com/116780907/209450808-8756656d-f8a0-4b98-a7b8-ce62f7ea2a26.png)
+![image](https://user-images.githubusercontent.com/116780907/209452191-86a5e877-71c7-4b0e-ad76-4c33911dd47b.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450862-d069f6e8-b953-44cf-8e77-6ccaa7e7b961.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450875-8b5e8372-e7c9-4e20-9621-b5a8fd219877.png)
 ![image](https://user-images.githubusercontent.com/116780907/209450924-2795285b-21cd-4c23-9964-d92893393eb5.png)
@@ -56,7 +55,11 @@ Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos E
 ![image](https://user-images.githubusercontent.com/116780907/209451203-ee6ad6c1-3ab4-4ee2-ba75-aabe0885a137.png)
 ![image](https://user-images.githubusercontent.com/116780907/209451208-fd9bfc9f-c512-465d-97d5-2adab0a90908.png)
 ![image](https://user-images.githubusercontent.com/116780907/209451221-b642967d-66eb-4d23-b839-5a928183d393.png)
-![image](https://user-images.githubusercontent.com/116780907/209451232-62e4434a-b6e2-41d4-9e86-57870264e52f.png)
+![image](https://user-images.githubusercontent.com/116780907/209451671-28031142-d1c5-4a46-9114-245df1b3c64e.png)
+![image](https://user-images.githubusercontent.com/116780907/209451682-b1666e36-a314-4ca6-9da5-19907928ec12.png)
+![image](https://user-images.githubusercontent.com/116780907/209451689-9aa60790-27c6-42cb-8d43-3e69f95737d0.png)
+![image](https://user-images.githubusercontent.com/116780907/209451695-6be8af35-2cc5-41a8-9969-b7eed54d0592.png)
+
 
 
 
