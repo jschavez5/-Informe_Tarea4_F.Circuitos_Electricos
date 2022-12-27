@@ -1,6 +1,18 @@
 # Informe_Tarea4_F.Circuitos_Eléctricos
 Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos Eléctricos - Floyd 
-# Objetivos 
+# Objetivos
+## Objetivo General 
+Analizar distintos métodos o técnicas con respecto a la resolución de circuitos en serie-paralelo conjutamente con la aplicación de temas vistos en los anteriores capítulos 
+## Objetivos Específicos 
+- Indentificar las relaciones serie-paralelo 
+- Analizar divisores de voltaje en cargas resistivas 
+- Analizar redes en escalera 
+- Comprender el funcionamiento de un puente de Wheatstone 
+- Reconocer una fuente de voltaje cd 
+- Realizar conversiones de fuente de voltaje a fuente de corriente 
+- Interpretar teorema de Superposición, Thevenin, Norton y  Transferencia de Potencia Máxima
+- Desarrollar conversiones Y a Delta y viceversa 
+
 # Marco Teórico
 ## Capítulo 7
 ![image](https://user-images.githubusercontent.com/116780907/209598272-369ed2b7-47bd-47a5-b243-5cd124332ef3.png)
@@ -75,7 +87,10 @@ Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos E
 ![image](https://user-images.githubusercontent.com/116780907/209451689-9aa60790-27c6-42cb-8d43-3e69f95737d0.png)
 ![image](https://user-images.githubusercontent.com/116780907/209451695-6be8af35-2cc5-41a8-9969-b7eed54d0592.png)
 
-
-
+# Conclusiones 
+- Se indentificó las diferentes relaciones serie-paralelo que pueden presentarce en un circuito eléctrico conjuntamente con la manera de interpretar sus distintas resistencias, voltajes y corrientes, de tal forma que se obtienen circuitos más pequeños y fáciles de analizar. 
+- Se analizó redes en escalera y cómo estos sirven al momento de reducir voltajes para la conversión digital a la analógica,de acuerdo a circuitos en serie-paralelo. 
+-  
+- 
 
 
