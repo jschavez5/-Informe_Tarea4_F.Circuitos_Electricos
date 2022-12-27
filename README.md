@@ -2,6 +2,9 @@
 Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos Eléctricos - Floyd 
 # Objetivos 
 # Marco Teórico
+![image](https://user-images.githubusercontent.com/116780907/209598272-369ed2b7-47bd-47a5-b243-5cd124332ef3.png)
+![image](https://user-images.githubusercontent.com/116780907/209598448-f16db061-310c-452a-b063-ca98746be744.png)
+
 ## Explicación y Resolución de Ejercicios o Problemas
 ![image](https://user-images.githubusercontent.com/116780907/209448448-e6b0b1b2-c0f8-4839-9966-cf9878e33e70.png)
 ![image](https://user-images.githubusercontent.com/116780907/209448555-8ab53727-d044-4857-8c51-753410911610.png)
