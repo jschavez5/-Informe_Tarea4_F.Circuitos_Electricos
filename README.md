@@ -96,3 +96,5 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 - El teorema de Thevenin permite que cualquier circuito de resistencia lineal de dos terminales se simplifique a una sola forma, con una fuente y resistencia  equivalente en serie, de acuerdo a la rama que se desea analizar, en cambio, el teorema de Norton con la misma idea,transforma un circuito complejo  a una forma equivalente pero, compuesta por una fuente de corriente  y resistencia equivalente en paralelo. 
 - Acerca del teorema de "transferencia de potencia máxima" se determinó que la potencia se transfiere de la fuente a la carga cuando, la resistencia de la carga es igual a la resistencia interna de la fuente.
 
+## Bibliografía 
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos . México : PEARSON EDUCACIÓN.
