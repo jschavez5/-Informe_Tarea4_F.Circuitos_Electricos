@@ -89,8 +89,10 @@ Analizar distintos métodos o técnicas con respecto a la resolución de circuit
 
 # Conclusiones 
 - Se indentificó las diferentes relaciones serie-paralelo que pueden presentarce en un circuito eléctrico conjuntamente con la manera de interpretar sus distintas resistencias, voltajes y corrientes, de tal forma que se obtienen circuitos más pequeños y fáciles de analizar. 
-- Se analizó redes en escalera y cómo estos sirven al momento de reducir voltajes para la conversión digital a la analógica,de acuerdo a circuitos en serie-paralelo. 
--  
-- 
-
+- Se analizó redes en escalera y como estos sirven al momento de reducir voltajes para la conversión digital a la analógica,de acuerdo a circuitos en serie-paralelo. 
+- Se conoció que el puente de Wheatstone se utiliza para medir con precisión la resistencia, sin embargo, más comúnmente se opera junto con transductores para medir cantidades físicas tales como deformación, temperatura, y presión. 
+- Una fuente de voltaje se puede también expresar como una fuente de corriente, en estos dos casos hay que considerar que la fuente posee una resistencia interna, dónde, una fuente ideal tiene resistencia interna de cero y  proporciona un voltaje constante entre las terminales sin importar la resistencia de carga.
+- Se estudio diferentes teoremas como, el de superposición, Thevenin y  Norton, los cuales permiten encontrar diferentes incógnitas en circuitos en serie-paralelo,  para facilitar el proceso de circuitos complejos, ya que, no solamente se analizan circuitos con una sola fuente, sino con varias. 
+- El teorema de Thevenin permite que cualquier circuito de resistencia lineal de dos terminales se simplifique a una sola forma, con una fuente y resistencia  equivalente en serie, de acuerdo a la rama que se desea analizar, en cambio, el teorema de Norton con la misma idea,transforma un circuito complejo  a una forma equivalente pero, compuesta por una fuente de corriente  y resistencia equivalente en paralelo. 
+- Acerca del teorema de "transferencia de potencia máxima" se determinó que la potencia se transfiere de la fuente a la carga cuando, la resistencia de la carga es igual a la resistencia interna de la fuente.
 
