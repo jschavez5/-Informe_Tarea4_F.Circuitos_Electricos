@@ -9,6 +9,12 @@ Resumen y realización del capítulo 7- 8 del libro de Principios de Circuitos E
 ![image](https://user-images.githubusercontent.com/116780907/209598857-1c60cf25-45d8-4f59-934c-8b616792a391.png)
 ### Capítulo 8
 ![image](https://user-images.githubusercontent.com/116780907/209599069-72cd3e90-6122-42a3-99e3-3ad4acf90c37.png)
+![image](https://user-images.githubusercontent.com/116780907/209599398-eb3cabdd-7ec0-4d27-9936-7a79b17d4f05.png)
+![image](https://user-images.githubusercontent.com/116780907/209599569-e025c78d-d4eb-4669-9a24-a19d7c73aec7.png)
+![image](https://user-images.githubusercontent.com/116780907/209599711-ccb3906a-05f1-428b-bbae-44ec165a08bb.png)
+![image](https://user-images.githubusercontent.com/116780907/209599750-4f5d6fc0-4a02-432a-8aa8-3dcd2a46fe27.png)
+![image](https://user-images.githubusercontent.com/116780907/209599949-863af74f-8b11-457d-90c4-687c8d6b2fe4.png)
+![image](https://user-images.githubusercontent.com/116780907/209600058-d6658d40-c0f3-43af-90d1-95a8bb03cb54.png)
 
 
 ## Explicación y Resolución de Ejercicios o Problemas
